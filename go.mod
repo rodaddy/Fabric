@@ -11,7 +11,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/bedrockruntime v1.47.1
 	github.com/gabriel-vasile/mimetype v1.4.12
 	github.com/gin-gonic/gin v1.11.0
-	github.com/go-git/go-git/v5 v5.16.4
+	github.com/go-git/go-git/v5 v5.16.5
 	github.com/go-shiori/go-readability v0.0.0-20251205110129-5db1dc9836f0
 	github.com/google/go-github/v66 v66.0.0
 	github.com/hasura/go-graphql-client v0.14.4
@@ -20,7 +20,7 @@ require (
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
 	github.com/mattn/go-sqlite3 v1.14.32
 	github.com/nicksnyder/go-i18n/v2 v2.6.0
-	github.com/ollama/ollama v0.13.5
+	github.com/ollama/ollama v0.14.0
 	github.com/openai/openai-go v1.12.0
 	github.com/otiai10/copy v1.14.1
 	github.com/pkg/errors v0.9.1
@@ -42,6 +42,8 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/internal v1.11.2 // indirect
 	github.com/KyleBanks/depth v1.2.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/signin v1.0.4 // indirect
+	github.com/bahlo/generic-list-go v0.2.0 // indirect
+	github.com/buger/jsonparser v1.1.1 // indirect
 	github.com/bytedance/gopkg v0.1.3 // indirect
 	github.com/go-openapi/jsonpointer v0.22.4 // indirect
 	github.com/go-openapi/jsonreference v0.21.4 // indirect
@@ -56,8 +58,10 @@ require (
 	github.com/goccy/go-yaml v1.19.1 // indirect
 	github.com/google/go-cmp v0.7.0 // indirect
 	github.com/gorilla/websocket v1.5.3 // indirect
+	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/quic-go/qpack v0.6.0 // indirect
 	github.com/quic-go/quic-go v0.57.1 // indirect
+	github.com/wk8/go-ordered-map/v2 v2.1.8 // indirect
 	go.uber.org/mock v0.6.0 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	golang.org/x/mod v0.31.0 // indirect
